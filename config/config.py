@@ -56,7 +56,7 @@ HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 # For customized or modified Repository
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/KinGEvilHacker/YukkiMusicBot",
+    "https://graph.org/file/ec2c38e61ce2a0b84d484.jpg",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 
